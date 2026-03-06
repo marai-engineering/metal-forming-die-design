@@ -1,5 +1,13 @@
 # Metal Forming Die Design – Cold Extrusion
 
+##  Design
+
+### Die Assembly
+![Die Assembly](figures/metal-forming-fin.png)
+
+### Exploded View
+![Production Part](figures/collar-bolt.png)
+
 ## Overview
 This project focuses on the design and analysis of a cold extrusion die system used to manufacture a collar bolt.
 
@@ -43,13 +51,6 @@ figures
 report  
 - forming calculations and project documentation
 
-## Example Design
-
-### Die Assembly
-![Die Assembly](figures/metal-forming-fin.png)
-
-### Exploded View
-![Production Part](figures/collar-bolt.png)
 
 ## Key Results
 - calculated extrusion force for the forming process
