@@ -46,7 +46,7 @@ report
 ## Example Design
 
 ### Die Assembly
-![Die Assembly](figures/assembly_render.png)
+![Die Assembly](figures/metal-forming-fin.png)
 
 ### Exploded View
 ![Exploded View](figures/exploded_view.png)
