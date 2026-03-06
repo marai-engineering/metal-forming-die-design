@@ -49,7 +49,7 @@ report
 ![Die Assembly](figures/metal-forming-fin.png)
 
 ### Exploded View
-![Production Part](figures/colar-bolt.png)
+![Production Part](figures/collar-bolt.png)
 
 ## Key Results
 - calculated extrusion force for the forming process
